@@ -15,6 +15,6 @@ createRoot(document.getElementById('root')).render(
     <Experience />
     <Projects />
     <Contact />
-    <App />
+    {/* <App /> */}
   </StrictMode>,
 )
